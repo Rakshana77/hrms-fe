@@ -2,7 +2,7 @@
 
 A full-stack **Employee Management System** built with **React.js (Frontend)**, **Node.js & Express.js (Backend)**, and **MongoDB**.  
 
-The system allows you to:
+The system allows you to
 
 - Add, view, and manage employees  
 - Filter employees by name, email, and category  
